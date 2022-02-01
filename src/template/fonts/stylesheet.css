@@ -1,0 +1,103 @@
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-DemiBold.eot')
+    src: local('../fonts/Houschka Pro DemiBold'), local('../fonts/HouschkaPro-DemiBold'), url('../fonts/HouschkaPro-DemiBold.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-DemiBold.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-DemiBold.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-DemiBold.ttf') format('../fonts/truetype')
+    font-weight: 600
+    font-style: normal
+
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-Bold.eot')
+    src: local('../fonts/Houschka Pro Bold'), local('../fonts/HouschkaPro-Bold'), url('../fonts/HouschkaPro-Bold.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-Bold.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-Bold.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-Bold.ttf') format('../fonts/truetype')
+    font-weight: bold
+    font-style: normal
+
+
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-ExtraBoldItalic.eot')
+    src: local('../fonts/Houschka Pro ExtraBold Italic'), local('../fonts/HouschkaPro-ExtraBoldItalic'), url('../fonts/HouschkaPro-ExtraBoldItalic.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-ExtraBoldItalic.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-ExtraBoldItalic.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-ExtraBoldItalic.ttf') format('../fonts/truetype')
+    font-weight: 800
+    font-style: italic
+
+
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-BoldItalic.eot')
+    src: local('../fonts/Houschka Pro Bold Italic'), local('../fonts/HouschkaPro-BoldItalic'), url('../fonts/HouschkaPro-BoldItalic.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-BoldItalic.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-BoldItalic.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-BoldItalic.ttf') format('../fonts/truetype')
+    font-weight: bold
+    font-style: italic
+
+
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-ThinItalic.eot')
+    src: local('../fonts/Houschka Pro Thin Italic'), local('../fonts/HouschkaPro-ThinItalic'), url('../fonts/HouschkaPro-ThinItalic.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-ThinItalic.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-ThinItalic.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-ThinItalic.ttf') format('../fonts/truetype')
+    font-weight: 100
+    font-style: italic
+
+
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-Light.eot')
+    src: local('../fonts/Houschka Pro Light'), local('../fonts/HouschkaPro-Light'), url('../fonts/HouschkaPro-Light.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-Light.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-Light.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-Light.ttf') format('../fonts/truetype')
+    font-weight: 300
+    font-style: normal
+
+
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-LightItalic.eot')
+    src: local('../fonts/Houschka Pro Light Italic'), local('../fonts/HouschkaPro-LightItalic'), url('../fonts/HouschkaPro-LightItalic.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-LightItalic.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-LightItalic.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-LightItalic.ttf') format('../fonts/truetype')
+    font-weight: 300
+    font-style: italic
+
+
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-DemiBoldItalic.eot')
+    src: local('../fonts/Houschka Pro DemiBold Italic'), local('../fonts/HouschkaPro-DemiBoldItalic'), url('../fonts/HouschkaPro-DemiBoldItalic.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-DemiBoldItalic.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-DemiBoldItalic.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-DemiBoldItalic.ttf') format('../fonts/truetype')
+    font-weight: 600
+    font-style: italic
+
+
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-DemiBold.eot')
+    src: local('../fonts/Houschka Pro DemiBold'), local('../fonts/HouschkaPro-DemiBold'), url('../fonts/HouschkaPro-DemiBold.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-DemiBold.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-DemiBold.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-DemiBold.ttf') format('../fonts/truetype')
+    font-weight: 600
+    font-style: normal
+
+
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-Thin.eot')
+    src: local('../fonts/Houschka Pro Thin'), local('../fonts/HouschkaPro-Thin'), url('../fonts/HouschkaPro-Thin.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-Thin.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-Thin.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-Thin.ttf') format('../fonts/truetype')
+    font-weight: 100
+    font-style: normal
+
+
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-ExtraBold.eot')
+    src: local('../fonts/Houschka Pro Extra Bold'), local('../fonts/HouschkaPro-ExtraBold'), url('../fonts/HouschkaPro-ExtraBold.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-ExtraBold.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-ExtraBold.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-ExtraBold.ttf') format('../fonts/truetype')
+    font-weight: 800
+    font-style: normal
+
+
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-MediumItalic.eot')
+    src: local('../fonts/Houschka Pro Medium Italic'), local('../fonts/HouschkaPro-MediumItalic'), url('../fonts/HouschkaPro-MediumItalic.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-MediumItalic.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-MediumItalic.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-MediumItalic.ttf') format('../fonts/truetype')
+    font-weight: 500
+    font-style: italic
+
+
+@font-face
+    font-family: 'Houschka Pro'
+    src: url('../fonts/HouschkaPro-Medium.eot')
+    src: local('../fonts/Houschka Pro Medium'), local('../fonts/HouschkaPro-Medium'), url('../fonts/HouschkaPro-Medium.eot?#iefix') format('../fonts/embedded-opentype'), url('../fonts/HouschkaPro-Medium.woff2') format('../fonts/woff2'), url('../fonts/HouschkaPro-Medium.woff') format('../fonts/woff'), url('../fonts/HouschkaPro-Medium.ttf') format('../fonts/truetype')
+    font-weight: 500
+    font-style: normal
+
+

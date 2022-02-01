@@ -1,3 +1,87 @@
+@font-face {
+  font-family: "Houschka Pro";
+  src: url("../fonts/HouschkaPro-Bold.eot");
+  src: local("Houschka Pro Bold"), local("HouschkaPro-Bold"), url("../fonts/HouschkaPro-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/HouschkaPro-Bold.woff2") format("woff2"), url("../fonts/HouschkaPro-Bold.woff") format("woff"), url("../fonts/HouschkaPro-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Houschka Pro";
+  src: url("../fonts/HouschkaPro-ExtraBoldItalic.eot");
+  src: local("Houschka Pro ExtraBold Italic"), local("HouschkaPro-ExtraBoldItalic"), url("../fonts/HouschkaPro-ExtraBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/HouschkaPro-ExtraBoldItalic.woff2") format("woff2"), url("../fonts/HouschkaPro-ExtraBoldItalic.woff") format("woff"), url("../fonts/HouschkaPro-ExtraBoldItalic.ttf") format("truetype");
+  font-weight: 800;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Houschka Pro";
+  src: url("../fonts/HouschkaPro-BoldItalic.eot");
+  src: local("Houschka Pro Bold Italic"), local("HouschkaPro-BoldItalic"), url("../fonts/HouschkaPro-BoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/HouschkaPro-BoldItalic.woff2") format("woff2"), url("../fonts/HouschkaPro-BoldItalic.woff") format("woff"), url("../fonts/HouschkaPro-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Houschka Pro";
+  src: url("../fonts/HouschkaPro-ThinItalic.eot");
+  src: local("Houschka Pro Thin Italic"), local("HouschkaPro-ThinItalic"), url("../fonts/HouschkaPro-ThinItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/HouschkaPro-ThinItalic.woff2") format("woff2"), url("../fonts/HouschkaPro-ThinItalic.woff") format("woff"), url("../fonts/HouschkaPro-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Houschka Pro";
+  src: url("../fonts/HouschkaPro-Light.eot");
+  src: local("Houschka Pro Light"), local("HouschkaPro-Light"), url("../fonts/HouschkaPro-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/HouschkaPro-Light.woff2") format("woff2"), url("../fonts/HouschkaPro-Light.woff") format("woff"), url("../fonts/HouschkaPro-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Houschka Pro";
+  src: url("../fonts/HouschkaPro-LightItalic.eot");
+  src: local("Houschka Pro Light Italic"), local("HouschkaPro-LightItalic"), url("../fonts/HouschkaPro-LightItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/HouschkaPro-LightItalic.woff2") format("woff2"), url("../fonts/HouschkaPro-LightItalic.woff") format("woff"), url("../fonts/HouschkaPro-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Houschka Pro";
+  src: url("../fonts/HouschkaPro-DemiBoldItalic.eot");
+  src: local("Houschka Pro DemiBold Italic"), local("HouschkaPro-DemiBoldItalic"), url("../fonts/HouschkaPro-DemiBoldItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/HouschkaPro-DemiBoldItalic.woff2") format("woff2"), url("../fonts/HouschkaPro-DemiBoldItalic.woff") format("woff"), url("../fonts/HouschkaPro-DemiBoldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Houschka Pro";
+  src: url("../fonts/HouschkaPro-DemiBold.eot");
+  src: local("Houschka Pro DemiBold"), local("HouschkaPro-DemiBold"), url("../fonts/HouschkaPro-DemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/HouschkaPro-DemiBold.woff2") format("woff2"), url("../fonts/HouschkaPro-DemiBold.woff") format("woff"), url("../fonts/HouschkaPro-DemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Houschka Pro";
+  src: url("../fonts/HouschkaPro-Thin.eot");
+  src: local("Houschka Pro Thin"), local("HouschkaPro-Thin"), url("../fonts/HouschkaPro-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/HouschkaPro-Thin.woff2") format("woff2"), url("../fonts/HouschkaPro-Thin.woff") format("woff"), url("../fonts/HouschkaPro-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Houschka Pro";
+  src: url("../fonts/HouschkaPro-ExtraBold.eot");
+  src: local("Houschka Pro Extra Bold"), local("HouschkaPro-ExtraBold"), url("../fonts/HouschkaPro-ExtraBold.eot?#iefix") format("embedded-opentype"), url("../fonts/HouschkaPro-ExtraBold.woff2") format("woff2"), url("../fonts/HouschkaPro-ExtraBold.woff") format("woff"), url("../fonts/HouschkaPro-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Houschka Pro";
+  src: url("../fonts/HouschkaPro-MediumItalic.eot");
+  src: local("Houschka Pro Medium Italic"), local("HouschkaPro-MediumItalic"), url("../fonts/HouschkaPro-MediumItalic.eot?#iefix") format("embedded-opentype"), url("../fonts/HouschkaPro-MediumItalic.woff2") format("woff2"), url("../fonts/HouschkaPro-MediumItalic.woff") format("woff"), url("../fonts/HouschkaPro-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Houschka Pro";
+  src: url("../fonts/HouschkaPro-Medium.eot");
+  src: local("Houschka Pro Medium"), local("HouschkaPro-Medium"), url("../fonts/HouschkaPro-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/HouschkaPro-Medium.woff2") format("woff2"), url("../fonts/HouschkaPro-Medium.woff") format("woff"), url("../fonts/HouschkaPro-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
 *, :before, :after {
   padding: 0;
   margin: 0;
@@ -11,8 +95,8 @@ html, body {
 
 body {
   color: #000000;
-  font-size: 16px;
-  font-family: "Tahoma", sans-serif;
+  font-size: 17px;
+  font-family: "Houschka Pro", sans-serif;
   margin-left: auto;
   margin-right: auto;
   position: relative;
@@ -136,8 +220,8 @@ img, svg, path, circle, rect, line {
   justify-content: center;
   text-align: center;
   cursor: pointer;
-  font-size: 16px;
-  font-family: "Tahoma", sans-serif;
+  font-size: 17px;
+  font-family: "Houschka Pro", sans-serif;
   overflow: hidden;
   border: none;
   background-color: transparent;
@@ -158,334 +242,12 @@ img, svg, path, circle, rect, line {
   min-height: 40px;
 }
 .button.--md {
-  font-size: 16px;
+  font-size: 17px;
   min-height: 46px;
 }
 .button.--lg {
   font-size: 20px;
   min-height: 60px;
-}
-
-.field__wrap {
-  position: relative;
-  cursor: text;
-}
-.field__area {
-  display: block;
-  font-size: 16px;
-  font-family: "Tahoma", sans-serif;
-  width: 100%;
-  overflow: hidden;
-  resize: none;
-  transition: 0.3s;
-}
-.field__area::placeholder {
-  opacity: 0;
-}
-.field__placeholder {
-  position: absolute;
-  left: 0;
-  right: 0;
-  transition: opacity 0.3s;
-}
-.field__message {
-  display: none;
-  color: #f00;
-}
-.field.--input .field__placeholder {
-  top: 50%;
-  transform: translateY(-50%);
-}
-.field.--textarea .field__placeholder {
-  top: 0;
-}
-.field.--xs .field__placeholder {
-  font-size: 12px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-.field.--xs.--textarea .field__placeholder {
-  line-height: 1.4;
-  padding-top: 8px;
-}
-.field.--xs input.field__area {
-  font-size: 12px;
-  height: 46px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-.field.--xs textarea.field__area {
-  font-size: 12px;
-  line-height: 1.4;
-  height: 100px;
-  padding: 8px 10px 8px 10px;
-}
-.field.--sm .field__placeholder {
-  font-size: 14px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-.field.--sm.--textarea .field__placeholder {
-  line-height: 1.4;
-  padding-top: 8px;
-}
-.field.--sm input.field__area {
-  font-size: 14px;
-  height: 50px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-.field.--sm textarea.field__area {
-  font-size: 14px;
-  line-height: 1.4;
-  height: 80px;
-  padding: 8px 10px 8px 10px;
-}
-.field.--md .field__placeholder {
-  font-size: 16px;
-  padding-left: 18px;
-  padding-right: 18px;
-}
-.field.--md.--textarea .field__placeholder {
-  line-height: 1.4;
-  padding-top: 16px;
-}
-.field.--md input.field__area {
-  font-size: 16px;
-  height: 56px;
-  padding-left: 18px;
-  padding-right: 18px;
-}
-.field.--md textarea.field__area {
-  font-size: 16px;
-  line-height: 1.4;
-  height: 120px;
-  padding: 16px 18px 16px 18px;
-}
-.field.--lg .field__placeholder {
-  font-size: 18px;
-  padding-left: 25px;
-  padding-right: 25px;
-}
-.field.--lg.--textarea .field__placeholder {
-  line-height: 1.4;
-  padding-top: 23px;
-}
-.field.--lg input.field__area {
-  font-size: 18px;
-  height: 62px;
-  padding-left: 25px;
-  padding-right: 25px;
-}
-.field.--lg textarea.field__area {
-  font-size: 18px;
-  line-height: 1.4;
-  height: 160px;
-  padding: 23px 25px 23px 25px;
-}
-.field.--b-gray .field__area {
-  border: 1px solid #eee;
-  border-radius: 5px;
-}
-.field.--focus .field__placeholder, .field.--filled .field__placeholder {
-  opacity: 0;
-}
-.field.--error .field__area {
-  border-color: #f00;
-}
-.field.--error .field__message {
-  display: block;
-}
-
-.check {
-  display: inline-flex;
-  cursor: pointer;
-}
-.check__input {
-  display: none;
-}
-.check__box {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid transparent;
-  transition: 0.3s;
-}
-.check__box:before {
-  content: "";
-  width: 100%;
-  height: 100%;
-  transition: 0.3s;
-  opacity: 0;
-  border-radius: 3px;
-  transform: scale(0);
-  background-color: #000000;
-}
-.check.--block {
-  display: flex;
-}
-.check.--b-gray .check__box {
-  border: 1px solid #eee;
-}
-.check.--md .check__box {
-  min-width: 20px;
-  width: 20px;
-  height: 20px;
-  padding: 3px;
-}
-.check.--md .check__wrap {
-  width: calc(100% - 20px);
-  padding-left: 10px;
-  padding-top: 2px;
-}
-.check.--checkbox .check__box {
-  border-radius: 5px;
-}
-.check.--radio .check__box {
-  border-radius: 50%;
-}
-.check.--radio .check__box:before {
-  border-radius: 50%;
-}
-.check.--toggle .check__box {
-  width: 40px;
-}
-.check.--toggle .check__box:before {
-  opacity: 0.4;
-  width: 12px;
-  transform: none;
-  margin-left: 12px;
-}
-.check.--toggle.--checked .check__box:before {
-  opacity: 1;
-  margin-left: -12px;
-}
-.check.--checked .check__box:before {
-  opacity: 1;
-  transform: scale(1);
-}
-
-.select {
-  position: relative;
-  cursor: pointer;
-}
-.select__wrap {
-  position: relative;
-}
-.select__area {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  border: 1px solid transparent;
-}
-.select__title {
-  white-space: nowrap;
-  text-overflow: ellipsis;
-}
-.select__icon svg {
-  transition: 0.3s;
-}
-.select__drop {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  right: 0;
-  transition: 0.3s;
-  opacity: 0;
-  visibility: hidden;
-  border: 1px solid transparent;
-  border-top: none;
-  transform: translateY(10px);
-  overflow-y: auto;
-}
-.select__item {
-  transition: 0.3s;
-}
-.select__item.--hidden {
-  display: none;
-}
-.select__parse {
-  display: none;
-}
-.select.--md .select__area {
-  min-height: 50px;
-  padding-left: 10px;
-  padding-right: 10px;
-}
-.select.--md .select__drop {
-  max-height: 200px;
-}
-.select.--md .select__item {
-  padding: 5px 10px;
-}
-.select.--b-gray .select__area {
-  border-radius: 5px;
-  border-color: #eee;
-}
-.select.--b-gray .select__drop {
-  border-radius: 0 0 5px 5px;
-  border-color: #eee;
-  background-color: #fff;
-}
-.select.--b-gray .select__item.--selected {
-  background-color: #eee;
-}
-.select.--open {
-  z-index: 5;
-}
-.select.--open .select__area {
-  border-radius: 5px 5px 0 0;
-}
-.select.--open .select__icon svg {
-  transform: rotate(180deg);
-}
-.select.--open .select__drop {
-  opacity: 1;
-  visibility: visible;
-  transform: translateY(0px);
-}
-
-body.popup-show {
-  overflow: hidden;
-  height: 100%;
-  margin-right: 12px;
-}
-
-.popup {
-  z-index: 999999;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  transition: 0.3s;
-  opacity: 0;
-  visibility: hidden;
-}
-.popup__inner {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: absolute;
-  flex-direction: column;
-  overflow-y: auto;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  padding: 15px;
-}
-.popup__bg {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(0, 0, 0, 0.8);
-}
-.popup.--show {
-  opacity: 1;
-  visibility: visible;
 }
 
 .tal {
@@ -502,4 +264,193 @@ body.popup-show {
 
 .overflow-disable {
   overflow: hidden;
+}
+
+html, body, .main {
+  height: 100%;
+}
+
+.wrap {
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inner {
+  max-width: 340px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 60px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.logo__title {
+  margin-right: 9px;
+}
+.logo__title.--black path {
+  fill: #000;
+}
+.logo__domain.--blue path:nth-of-type(1) {
+  fill: #59BCCB;
+}
+
+.text {
+  font-size: 17px;
+  line-height: 1.2;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.icons {
+  z-index: 1;
+  position: relative;
+  padding-left: 14px;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  width: 58px;
+  height: 58px;
+  margin-bottom: 15px;
+}
+.icon:last-of-type {
+  margin-bottom: 0;
+}
+.icon.--blue {
+  background: #59BCCB;
+}
+.icon.--pink {
+  background: #E91E63;
+}
+
+.img {
+  margin-top: -230px;
+  position: relative;
+  left: 60px;
+}
+
+.search {
+  z-index: 2;
+  position: relative;
+  margin-top: -260px;
+  margin-left: -30px;
+}
+
+.btn {
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: absolute;
+  bottom: 46px;
+  left: 50%;
+  width: 240px;
+  height: 65px;
+  font-size: 24px;
+  font-weight: 700;
+  transform: translateX(-50%);
+  color: #fff;
+  background: #009D06;
+  box-shadow: 0px 0px 20px #00FF19;
+  border-radius: 16px;
+}
+
+.shapes__shape {
+  z-index: -1;
+  position: absolute;
+}
+.shapes__shape:nth-of-type(1) {
+  top: -80px;
+  right: 50%;
+  margin-right: -110px;
+  transform: translateX(50%);
+}
+.shapes__shape:nth-of-type(2) {
+  bottom: -100px;
+  left: 50%;
+  margin-left: -90px;
+  transform: translateX(-50%);
+}
+
+@media screen and (max-height: 785px) {
+  .inner {
+    padding-bottom: 100px;
+  }
+
+  .search {
+    margin-top: -310px;
+  }
+}
+@media screen and (max-height: 700px) {
+  .inner {
+    padding-bottom: 100px;
+  }
+
+  .text {
+    margin-bottom: 20px;
+  }
+
+  .img {
+    transform: scale(0.8);
+    margin-top: -280px;
+  }
+
+  .search {
+    margin-top: -250px;
+  }
+
+  .btn {
+    bottom: 15px;
+  }
+}
+@media screen and (max-height: 650px) {
+  .search {
+    display: none;
+  }
+
+  .img {
+    margin-bottom: -200px;
+  }
+}
+@media screen and (max-height: 580px) {
+  .icon {
+    width: 46px;
+    height: 46px;
+    padding: 8px;
+    margin-bottom: 5px;
+  }
+
+  .img {
+    margin-top: -220px;
+    margin-bottom: -270px;
+  }
+}
+@media screen and (max-height: 550px) {
+  .inner {
+    padding-bottom: 0;
+  }
+}
+@media screen and (max-width: 375px) {
+  .inner {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .search {
+    margin-left: -15px;
+  }
 }
